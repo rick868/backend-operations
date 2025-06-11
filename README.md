@@ -92,3 +92,10 @@ The web server is responsible for processing the request, generating the HTML, C
 😆Incase you don't know what a URL is;
 
 It is (a uniform resource locator ) for the domain you are looking for like google.com, etc.
+
+### A simple Step by Step Process is:
+The browser parses ```https://google.com``` into:
+
+Protocol: ```HTTPS``` (default port: 443).
+
+Domain: ```google.com```.
