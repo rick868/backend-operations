@@ -5,8 +5,11 @@
 
 When you type google.com in your browser, on your computer or device what generslly hsppens is,a request is sent to the DNS server, which serves as an address book for all domain names.
 
-This then sends back the exact IP address of the server which [google](https://www.google.com) points to.
-This address will be like 123.122.130.3 rendering these numbers for humans is not possible to remember, hence the need for servers known as Domain Name System Servers. The domain names are a way for humans to remember easily for Google.com
+This then sends back the exact IP address of the server which ```google.com``` points to.
+
+This address will be like 123.122.130.3 rendering these numbers for humans is not possible to remember, hence the need for servers known as **Domain Name System Servers**. 
+
+The domain names are a way for humans to remember easily for google.com
 ##
 If you had accessed google.com earlier, the browser first checks its cache to see if it has a recent record of that domain name.
 
